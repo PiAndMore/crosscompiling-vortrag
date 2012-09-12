@@ -1,0 +1,6 @@
+Crosstool-ng	http://crosstool-ng.org/
+
+TrueCrypt 	http://www.truecrypt.org/downloads2
+pkcs11 Headers 	ftp://ftp.rsasecurity.com/pub/pkcs/pkcs-11/v2-20/
+wxWidgets 2.8	http://www.wxwidgets.org
+libfuse.a	https://github.com/cperrin88/vortrag-cross-compiling/raw/master/assets/libfuse.a
